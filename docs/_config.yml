@@ -18,11 +18,11 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
+title: "Omar Eldash"
+description: "Personal Website includes resume, publications, classes,etc."
 baseurl: 
 url: "https://omar.eldash.info"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
