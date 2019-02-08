@@ -1,5 +1,5 @@
 ---
-title: Post Archive
+title: Resume
 layout: posts
 permalink: /resume/
 show_excerpts: true
