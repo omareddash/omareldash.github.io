@@ -1,6 +1,6 @@
 ---
 title: Post Archive
-layout: posts
+layout: post
 permalink: /Blog/
 show_excerpts: true
 entries_layout: list

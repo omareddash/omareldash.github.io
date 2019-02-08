@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: posts
+layout: page
 permalink: /resume/
 show_excerpts: true
 entries_layout: list
