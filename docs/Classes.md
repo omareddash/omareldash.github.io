@@ -16,4 +16,6 @@ This course would follow these four phases:
 +Phase III: Building Embedded Learning Systems
 +Phase IV: Advanced issues towards a reliable, power efficient and real
 
-[EECE371](http:\\ul-eece371-s19.github.io)
+[EECE371](http:\\ul-eece371.github.io)
+
+
