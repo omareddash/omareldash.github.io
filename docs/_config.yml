@@ -105,33 +105,33 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
+author: 
+  name: Omar Eldash
+  picture: /images/site-logo.png
+  email: omareddash@gmail.com
+  twitter: omareddash
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/omareddash
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/omareddash
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/omareddash
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/omareddash
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/omareddash
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/omareddash
     icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  #- title: Feed
+  #  url: atom.xml
+  #  icon: fas fa-rss-square

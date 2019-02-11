@@ -1,15 +1,11 @@
 # Authors
 
-Billy Rick:
-  name: Billy Rick
+Omar Eldash:
+  name: Omar Eldash
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@omareddash"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/omareddash
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
