@@ -21,7 +21,7 @@ locale: en-US
 title: "Omar Eldash"
 description: "Personal Website includes resume, publications, classes,etc."
 baseurl: 
-url: "https://omar.eldash.info"
+url: "https://omareddash.github.info"
 logo: "/images/site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
